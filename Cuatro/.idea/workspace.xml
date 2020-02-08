@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Cuatro" targetName="Cuatro" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dabc1535-1843-4712-8c92-c6c26b645ff8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="Cuatro" />
+  </component>
+  <component name="ProjectId" id="1X32vyfgEN3bZIhbZzxfkLjuEmK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="ObjectiveC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Program1Building" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Cuatro" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cuatro" TARGET_NAME="Cuatro" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cuatro" RUN_TARGET_NAME="Cuatro">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dabc1535-1843-4712-8c92-c6c26b645ff8" name="Default Changelist" comment="" />
+      <created>1580260691407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580260691407</updated>
+      <workItem from="1580260694974" duration="66335000" />
+      <workItem from="1581109843731" duration="7549000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Code_Folding" timestamp="1581114352556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Code_Folding/0.0.1536.824@0.0.1536.824" timestamp="1581114352556" />
+    <state x="361" y="70" key="#Inspections" timestamp="1581131729429">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1581131729429" />
+    <state x="361" y="70" key="#Intentions" timestamp="1581118088542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1581118088542" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581109974202">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1581109974202" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1581045799306">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581045799306" />
+    <state width="1493" height="254" key="GridCell.Tab.0.bottom" timestamp="1581114999170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="182" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1580754003837" />
+    <state width="1493" height="254" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581114999170" />
+    <state width="1493" height="254" key="GridCell.Tab.0.center" timestamp="1581114999170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="182" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1580754003836" />
+    <state width="1493" height="254" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581114999170" />
+    <state width="1493" height="254" key="GridCell.Tab.0.left" timestamp="1581114999170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="182" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1580754003836" />
+    <state width="1493" height="254" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581114999170" />
+    <state width="1493" height="254" key="GridCell.Tab.0.right" timestamp="1581114999170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="182" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1580754003836" />
+    <state width="1493" height="254" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581114999170" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1581044343776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581044343776" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1581044343776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581044343776" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1581044343776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581044343776" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1581044343776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581044343776" />
+    <state x="346" y="58" key="SettingsEditor" timestamp="1581130887852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="346" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581130887852" />
+    <state x="417" y="54" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581046830780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="417" y="54" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1581046830780" />
+    <state x="330" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1580660701497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="330" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1580660701497" />
+    <state x="455" y="258" width="707" height="309" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1580847715696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="455" y="258" width="707" height="309" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1580847715696" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1581052347138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1581052347138" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1581130833379">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1581130833379" />
+  </component>
+</project>
